@@ -8,6 +8,8 @@
   <br />
   <img src="https://komarev.com/ghpvc/?username=shreyanshcode-web&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile views" />
   <a href="https://github.com/shreyanshcode-web?tab=followers"><img src="https://img.shields.io/github/followers/shreyanshcode-web?label=FOLLOWERS&style=for-the-badge&color=1d4ed8" alt="GitHub followers" /></a>
+  <a href="https://github.com/shreyanshcode-web?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fshreyanshcode-web&query=%24.public_repos&label=REPOSITORIES&style=for-the-badge&color=06b6d4" alt="Public repositories" /></a>
+  <a href="https://github.com/shreyanshcode-web/shreyanshcode-web/stargazers"><img src="https://img.shields.io/github/stars/shreyanshcode-web/shreyanshcode-web?label=STARS&style=for-the-badge&color=f59e0b" alt="Stars on this profile repository" /></a>
 </div>
 
 ## About me
