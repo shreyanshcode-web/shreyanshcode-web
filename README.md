@@ -18,10 +18,39 @@ I'm Shreyansh, a developer who enjoys turning ideas into thoughtful, reliable we
 - Exploring AI, cloud-native development, and modern web technologies
 - Open to collaborating on useful open-source projects
 
+## Developer card
+
+```text
+┌─────────────────────────────────────────────────────────────────┐
+│ shreyanshcode-web@github:~$ whoami                              │
+│ Shreyansh — Full-stack developer                                │
+│                                                                 │
+│ shreyanshcode-web@github:~$ focus                               │
+│ Building useful web experiences and growing through open source │
+│                                                                 │
+│ shreyanshcode-web@github:~$ status                              │
+│ Available for collaboration                                    │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 ## Tech stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,nodejs,tailwind,fastapi,postgres,mongodb,docker,git,github,vscode&theme=dark&perline=8" alt="Technology stack: TypeScript, JavaScript, Python, C++, React, Next.js, Node.js, Tailwind CSS, FastAPI, PostgreSQL, MongoDB, Docker, Git, GitHub, and VS Code" />
+</div>
+
+## Featured projects
+
+I build practical applications, experiments, and tools as I learn. Browse my repositories to see what I’m currently working on.
+
+<div align="center">
+  <a href="https://github.com/shreyanshcode-web?tab=repositories"><img src="https://img.shields.io/badge/Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Shreyansh's GitHub repositories" /></a>
+</div>
+
+## LeetCode progress
+
+<div align="center">
+  <a href="https://leetcode.com/u/shreyanshcode-web/"><img src="https://leetcard.jacoblin.cool/shreyanshcode-web?theme=dark&font=Karma&ext=heatmap" alt="LeetCode problem-solving statistics and submission heatmap" /></a>
 </div>
 
 ## GitHub activity
