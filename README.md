@@ -22,7 +22,11 @@ I'm Shreyansh, a developer who enjoys turning ideas into thoughtful, reliable we
 
 ## Developer card
 
-```text
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/profile-photo-circle.png" width="132" alt="Shreyansh Singh profile portrait" />
+      <pre>
 ┌─────────────────────────────────────────────────────────────────┐
 │ shreyanshcode-web@github:~$ whoami                              │
 │ Shreyansh — Full-stack developer                                │
@@ -33,7 +37,10 @@ I'm Shreyansh, a developer who enjoys turning ideas into thoughtful, reliable we
 │ shreyanshcode-web@github:~$ status                              │
 │ Available for collaboration                                    │
 └─────────────────────────────────────────────────────────────────┘
-```
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ## Tech stack
 
