@@ -69,9 +69,18 @@ I build practical applications, experiments, and tools as I learn. Browse my rep
   </picture>
 </div>
 
+## Blogs & writing
+
+<div align="center">
+  <a href="https://medium.com/@snghsher1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read Shreyansh on Medium" /></a>
+  <a href="https://x.com/thereaboult"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow Shreyansh on X" /></a>
+  <a href="https://substack.com/@shreyanshsingh7777"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Read Shreyansh on Substack" /></a>
+</div>
+
 ## Let's connect
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/shreyansh-singh-7-7-7-7-7-7-/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Shreyansh on LinkedIn" /></a>
   <a href="https://github.com/shreyanshcode-web"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
