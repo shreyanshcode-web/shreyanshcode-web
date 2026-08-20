@@ -56,13 +56,6 @@ I build practical applications, experiments, and tools as I learn. Browse my rep
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyanshcode-web&show_icons=true&hide_title=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshcode-web&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=shreyanshcode-web&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshcode-web&bg_color=ffffff&color=334155&line=0ea5e9&point=1d4ed8&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph" />
 </div>
 
